@@ -72,5 +72,5 @@ Para esse desafio temos os seguintes testes:
 
 ### Video explicativo de como começar
 <p style="font-size:100px">
-Se tiver com duvida de como clonar o repositorio ou de como começar a codar no desafio clone esse repositorio para sua maquina ou baixe o videoexplicativodecomocomecar-2021-01-26_09.28.44.mp4 e assista ele. Caso tenha alguma tenha mais duvidas entre em contato conosco da vice &#128540;
+Se tiver com duvida de como clonar o repositorio ou de como começar a codar no desafio clone esse repositorio para sua maquina ou baixe o videoexplicativodecomocomecar-2021-01-26_09.28.44.mp4 e assista ele. Caso tenha mais duvidas entre em contato conosco da vice &#128540;
 </p>
