@@ -12,7 +12,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 
 Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
 
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/LeandroFontellas/template-primeirodesafio-nodejs/settings)**
+O template está disponível na seguinte url: **[Acessar Template](https://github.com/LeandroFontellas/template-primeirodesafio-nodejs)**
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
