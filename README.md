@@ -12,9 +12,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 
 Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
 
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)**
-
-**Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
+O template está disponível na seguinte url: **[Acessar Template](https://github.com/LeandroFontellas/template-primeirodesafio-nodejs/settings)**
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
@@ -51,8 +49,6 @@ Bons estudos <3
 ### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
 
 Para esse desafio temos os seguintes testes:
 
