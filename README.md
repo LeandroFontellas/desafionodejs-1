@@ -69,3 +69,7 @@ Para esse desafio temos os seguintes testes:
 - **`should be able to give a like to the repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório com o id informado possa receber likes. O valor de likes deve ser incrementado em 1 a cada requisição, e como resultado, retornar um json contendo o repositório com o número de likes atualizado.
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
+
+### Video explicativo de como começar
+
+Se tiver com duvida de como clonar o repositorio ou de como começar a codar no desafio clone esse repositorio para sua maquina ou baixe o videoexplicativodecomocomecar-2021-01-26_09.28.44.mp4 e assista ele. Caso tenha alguma tenha mais duvidas entre em contato conosco da vice <p style="font-size:100px">&#128540;</p>
